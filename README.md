@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadefisayo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full stack Web Development 
+- 👀 I’m interested in Creating Simple and Interactive Websites and applications
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Adefisayoadelakun@gmail.com, +2348133136066
 
